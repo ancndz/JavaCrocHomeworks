@@ -4,3 +4,6 @@
 [submodule "JavaCrocFilesAndExceptionsHometask3"]
 	path = JavaCrocFilesAndExceptionsHometask3
 	url = https://github.com/ancndz/JavaCrocFilesAndExceptionsHometask3
+[submodule "JavaCrocAnnotationsAndXMLHometask4"]
+	path = JavaCrocAnnotationsAndXMLHometask4
+	url = https://github.com/ancndz/JavaCrocAnnotationsAndXMLHometask4
