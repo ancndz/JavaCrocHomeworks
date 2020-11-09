@@ -7,3 +7,6 @@
 [submodule "JavaCrocAnnotationsAndXMLHometask4"]
 	path = JavaCrocAnnotationsAndXMLHometask4
 	url = https://github.com/ancndz/JavaCrocAnnotationsAndXMLHometask4
+[submodule "JavaCrocJDBCHomeTask5"]
+	path = JavaCrocJDBCHomeTask5
+	url = https://github.com/ancndz/JavaCrocJDBCHomeTask5
