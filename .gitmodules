@@ -10,3 +10,6 @@
 [submodule "JavaCrocJDBCHomeTask5"]
 	path = JavaCrocJDBCHomeTask5
 	url = https://github.com/ancndz/JavaCrocJDBCHomeTask5
+[submodule "JavaCrocThreadsHomeTask6"]
+	path = JavaCrocThreadsHomeTask6
+	url = https://github.com/ancndz/JavaCrocThreadsHomeTask6
