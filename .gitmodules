@@ -13,3 +13,6 @@
 [submodule "JavaCrocThreadsHomeTask6"]
 	path = JavaCrocThreadsHomeTask6
 	url = https://github.com/ancndz/JavaCrocThreadsHomeTask6
+[submodule "JavaCrocFinalTask"]
+	path = JavaCrocFinalTask
+	url = https://github.com/ancndz/JavaCrocFinalTask
